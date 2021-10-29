@@ -1,0 +1,5 @@
+.content {
+  background-color: #dad7cd;
+  height: calc(100vh - 104px);
+  width: 80%;
+}
